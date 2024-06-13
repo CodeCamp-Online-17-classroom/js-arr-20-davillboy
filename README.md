@@ -11,3 +11,4 @@ function ask(question, yes, no) {
   else no();
 }
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
